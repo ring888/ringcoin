@@ -77,7 +77,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "ringcoin"; // Название вашей монеты
-const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff000181adf0eb1d029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121012b162f5cfb50b68aad8fb9783abe43ab35e6f616e86d65c0734a1816d36be4bb";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff000181adf0eb1d029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd088071210113b9c2cea2cda29cf02552035306d1305cf85023e8ee1d745ea424cf670811f8";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
